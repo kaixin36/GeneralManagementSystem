@@ -6,3 +6,8 @@ spring:
       password: 111111
 logging:
   config: classpath:logback-local.xml
+
+
+server:
+  port:
+
